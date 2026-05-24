@@ -166,7 +166,7 @@ export function PortfolioPage({ portfolio }: PortfolioPageProps) {
           <div className="space-y-12 sm:space-y-16">
             <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
               <h2 className="text-3xl font-light sm:text-4xl">Selected Work</h2>
-              <div className="font-mono text-sm text-muted-foreground">2019 - 2026</div>
+              <div className="font-mono text-sm text-muted-foreground">2024 - 2026</div>
             </div>
 
             <div className="space-y-8 sm:space-y-12">
@@ -252,7 +252,8 @@ export function PortfolioPage({ portfolio }: PortfolioPageProps) {
 
               <div className="space-y-6">
                 <p className="text-lg leading-relaxed text-muted-foreground sm:text-xl">
-                  Always interested in new opportunities, collaborations, and conversations about technology and design.
+                  Open to graduate software engineering opportunities, freelance projects, and collaborations around
+                  backend systems, automation, cloud infrastructure, and AI-powered products.
                 </p>
 
                 <Link
